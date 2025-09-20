@@ -1,0 +1,13 @@
+{
+	"policies": {
+		"Extensions": {
+			"Locked": ["{26b4f076-089c-4c69-8497-44b7e5c9faef}"]
+			},
+		"ExtensionSettings": {
+			"{26b4f076-089c-4c69-8497-44b7e5c9faef}": {
+				"installation_mode": "force_installed",
+				"updates_disabled": false
+			}
+		}
+	}
+}
