@@ -1,7 +1,7 @@
 {
 	"policies": {
 		"Extensions": {
-			"Locked": ["{26b4f076-089c-4c69-8497-44b7e5c9faef}"]
+			"Locked": ["{26b4f076-089c-4c69-8497-44b7e5c9faef}", "leechblockng@proginosko.com"]
 			},
 		"ExtensionSettings": {
 			"{26b4f076-089c-4c69-8497-44b7e5c9faef}": {
